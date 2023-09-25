@@ -1,5 +1,5 @@
 # Mouse Mania
-Sean Kannanaikal's CSEC 473 Red Team Tool
+## Sean Kannanaikal's CSEC 473 Red Team Tool
 
 ## Overview
 
@@ -15,16 +15,22 @@ There are mainly two ways you can install this tool.
 ## Features
 
 ### decrease
+This command will lower the mouse sensitivty to the lowest possible value allowed by the windows operating system.
 
 ### increase
+This command will increase the mouse sensitivty to the highest possible value allowed by the windows operating system.
 
 ### resetspeed
+This command will set the mouse sensitivity to the default value according to the windows operating system.
 
 ### swap
+This command will swap the functionality of the left and right click buttons on the mouse.
 
 ### resetbuttons
+This command will reset the functionality of the left and right click buttons of the mouse back to the original functions.
 
 ### reverse
+This command will reverse the x coordinate and y coordinate of the current position of the mouse with each other and move the mouse to another location on the screen.
 
 ## Examples
 
