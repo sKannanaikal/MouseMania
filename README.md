@@ -1,2 +1,2 @@
 # Mouse Mania
-CSEC 473 Red Team Tool
+Sean Kannanaikal's CSEC 473 Red Team Tool
