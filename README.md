@@ -34,6 +34,8 @@ This command will reverse the x coordinate and y coordinate of the current posit
 
 ## Examples
 
+You can run these commands below in powershell after navigating to the directory where the mousemania executable is located and you can achieve the features described above.
+
 ```
 .\mousemania.exe decrease
 ```
